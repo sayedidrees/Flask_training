@@ -13,7 +13,7 @@ python -m venv venv
 # Activate virtual environment (Windows)
 venv\Scripts\activate
 
-# To deactivate the virtual environment, run:
+# ( Optional ) To deactivate the virtual environment, run:
 deactivate
 ```
 
